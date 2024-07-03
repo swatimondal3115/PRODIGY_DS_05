@@ -18,7 +18,10 @@ In this project, I perform an exploratory data analysis (EDA) on US accident dat
 2.Geographical Insights: Understanding the geographical distribution of accidents.
 3.Weather Conditions: Impact of weather conditions on the occurrence of accidents.
 
-###### Files:
+###### File:
 1.For a detailed analysis and visualizations, refer to the PRODIGY_DS_05.ipynb file in this repository.
-2.
+
+####### Viewing the Analysis:
+you can download the repository and run the notebook locally to explore the the detail analysis.
+
 
