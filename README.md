@@ -6,7 +6,7 @@ This project involves an exploratory data analysis (EDA) on US accident data. Th
 ### Repository structure:
 us_accident_data_analysis.ipynb: Jupyter Notebook with the code for data preprocessing, analysis, and visualization.
 
-#### projeact pverview:
+#### project preview:
 In this project, I perform an exploratory data analysis (EDA) on US accident data to uncover insights and patterns. The process involves the following steps:
 
 1.Data Preprocessing: Handling missing values, data cleaning, and preparation.
