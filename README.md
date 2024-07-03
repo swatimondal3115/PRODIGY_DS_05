@@ -4,7 +4,7 @@
 This project involves an exploratory data analysis (EDA) on US accident data. The dataset used for this analysis is sourced from https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents.
 
 ### Repository structure:
-us_accident_data_analysis.ipynb: Jupyter Notebook with the code for data preprocessing, analysis, and visualization.
+PRODIGY_DS_05.ipynb: Jupyter Notebook with the code for data preprocessing, analysis, and visualization.
 
 #### project preview:
 In this project, I perform an exploratory data analysis (EDA) on US accident data to uncover insights and patterns. The process involves the following steps:
@@ -21,7 +21,7 @@ In this project, I perform an exploratory data analysis (EDA) on US accident dat
 ###### File:
 1.For a detailed analysis and visualizations, refer to the PRODIGY_DS_05.ipynb file in this repository.
 
-####### Viewing the Analysis:
+###### Viewing the Analysis:
 you can download the repository and run the notebook locally to explore the the detail analysis.
 
 
